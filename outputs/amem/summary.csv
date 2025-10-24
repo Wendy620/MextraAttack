@@ -1,0 +1,3 @@
+Model,ExtractionSuccess,CER,AER,EE
+amem_lmsys_vicuna-7b-v1.5,0.4,0.26666666666666666,0.4,0.05333333333333334
+amem_meta-llama_Llama-2-7b-hf,0.4,0.26666666666666666,0.4,0.05333333333333334
